@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doffern
+- 👋 Hi, I’m @Martin V.
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Chemical engineering at NTNU 
 - 💞️ I’m looking to collaborate on simple projects to develop my coding skills further
