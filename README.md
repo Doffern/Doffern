@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martin V.
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Chemical engineering at NTNU 
+- 👀 I’m interested in Backend development, Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently enrolled at NTNU as a M.Sc Chemical engineering student 
 - 💞️ I’m looking to collaborate on simple projects to develop my coding skills further
 - 📫 How to reach me: Email: kristoffervollan45@gmail.com
 
